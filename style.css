@@ -1,0 +1,98 @@
+<style type="text/css">
+
+
+
+			* ( margin: 0; padding: 0; )
+
+			p
+			{
+				
+				width: 2000px;
+				height: 2000px;
+				
+
+			}
+			body
+			{
+				font-family: tahoma;
+				background-color: gray;
+
+
+			}
+
+			#header
+			{
+				background-color: blue;
+				height: 240px;
+				width: 100%;
+				border: white;
+			}
+
+			.container
+			{
+				width: 960px;
+				height: auto;
+				margin: 0 auto;
+				padding-top:20px;
+			}
+
+			#logoArea
+			{
+				width: 200px;
+				height: 200px;
+				background-image: url(myAvatar.png);
+				float: left;
+			}
+			 #navArea
+			 {
+			 	width: 660px;
+			 	height: 100px;
+			 	float: right;
+			 }
+
+			 #nav
+			 {
+			 	list-style: none;
+			 	margin-top: 40px;
+			 }
+
+
+			 #nav a
+			 {
+			 	color: blue;
+			 	text-decoration: none;
+			 }
+
+			 #nav li
+			 {
+			 	float: left;
+			 	margin-left: 30px;
+			 	background-color: white;
+			 	padding: 8px;
+			 	border: 4px white;
+			 	border-radius:  5px;
+
+			 }
+
+			 #nav li:hover
+			 {
+			 	background-color: aqua;
+			 }
+
+
+			 .page
+			 	{
+			 		margin-top:0;
+			 		background-color: #ffe6e6;
+			 		padding-bottom:20px;
+			 		border: 4px black;
+			 	}
+
+
+
+
+
+
+
+
+	</style>
